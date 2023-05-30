@@ -224,7 +224,6 @@ audio = ""
     newAudio( audio )
             .center()
             .once()
-            .log()
         ,
     newImage("message","messageExp3.png")
             .size(430,215)
