@@ -96,6 +96,7 @@ jqueryWidget: {
                 }
 
                 var rads = $(dom).find("input[type=radio]");
+                console.log(rads);
                 // Sort by name.
                 var rgs = { };
                 for (var i = 0; i < rads.length; ++i) {
