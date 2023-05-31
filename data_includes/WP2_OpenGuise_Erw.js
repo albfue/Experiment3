@@ -38,7 +38,8 @@ PennController("Info",
             .print()
 ,
 newButton("Weiter_Alter","Ich bin über 18 Jahre.")
-    .center()
+    .center()PennController.Sequence("Info",
+
     .print()
     .wait()
      
