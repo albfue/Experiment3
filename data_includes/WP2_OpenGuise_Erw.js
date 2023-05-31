@@ -717,6 +717,7 @@ PennController("Meta1",
                getDropDown("abschluss").wait("first")
  )
  )
+                 ;
  //Metadaten 2: Sprachbiographie
 PennController("Meta2",
     newImage("HU","HU Logo.png")  
